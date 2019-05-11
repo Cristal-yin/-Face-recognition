@@ -31,5 +31,10 @@ plt.show()
 
 [简单代码实现](https://github.com/Cristal-yin/Face-recognition/blob/master/pytorch/code/matplotlib.ipynb)
 
-### 设置坐标轴
+### 设置坐标轴、legend
 
+[简单代码实现](https://github.com/Cristal-yin/Face-recognition/blob/master/pytorch/code/axis.ipynb)
+
+## 注释
+
+[简单代码实现]()
