@@ -7,3 +7,16 @@ pytorch/data/cifar-10-batches-py/data_batch_3
 pytorch/CLASSIFIER.ipynb
 pytorch/data/cifar-10-batches-py/test_batch
 pytorch/data/cifar-10-python.tar.gz
+pytorch/data/mnist/MNIST/processed/test.pt
+pytorch/data/faces/personalpic.jpg
+pytorch/data/faces/person_TjahjonoDGondhowiardjo.jpg
+pytorch/data/faces/person.jpg
+pytorch/data/faces/person-7.jpg
+pytorch/data/mnist/MNIST/processed/training.pt
+pytorch/data/faces/matt-mathes.jpg
+*.jpg
+pytorch/data/mnist/MNIST/raw/t10k-labels-idx1-ubyte
+pytorch/data/mnist/MNIST/raw/t10k-images-idx3-ubyte
+pytorch/data/mnist/MNIST/raw/train-images-idx3-ubyte
+pytorch/data/mnist/MNIST/raw/train-labels-idx1-ubyte
+pytorch/data/faces/face_landmarks.csv
