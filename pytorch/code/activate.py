@@ -1,6 +1,9 @@
 import torch 
 import torch.nn.functional as F
 from torch.autograd import Variable
+ 
+import matplotlib
+matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 
 x = torch.linspace(-5, 5, 200)
