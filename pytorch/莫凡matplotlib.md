@@ -37,4 +37,7 @@ plt.show()
 
 ## 注释
 
-[简单代码实现]()
+[简单代码实现](https://github.com/Cristal-yin/Face-recognition/blob/master/pytorch/code/annotation.ipynb)
+
+## tick能见度
+
